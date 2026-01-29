@@ -18,5 +18,12 @@ and gradually move towards real-world projects.
 ## 🌱 Status
 Learning in progress 🚀
 
+## 🧩 Mini Projects
+
+### 1️⃣ Number Guessing Game
+- A simple Python program where the user guesses a number
+- Concepts used: variables, input/output, if-else
+
+
 
 
